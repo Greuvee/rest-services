@@ -1,0 +1,1748 @@
+{
+    "uuid": "805cc870-7495-4bd6-b542-6266c768d2b7",
+    "firstName": "Bret",
+    "lastName": "Hodgson",
+    "emailAddress": "bret@acme.com",
+    "phoneNumber": "3038566895",
+    "emailAddressValidated": true,
+    "enabled": true,
+    "accountExpired": false,
+    "accountLocked": false,
+    "credentialsExpired": true,
+    "dateCreated": "2023-04-03",
+    "roles": [
+        "ROLE_USER",
+        "ROLE_ADVOCATE"
+    ],
+    "daysAvailable": [
+        {
+            "uuid": "d4d658e8-a266-456e-ac88-c3d8ae4bfc91",
+            "day": "M",
+            "timeSlots": [
+                {
+                    "uuid": "d3b2a953-d575-4aa7-8550-e5b26c7b4fd0",
+                    "time": "00:00-00:30",
+                    "available": false
+                },
+                {
+                    "uuid": "c57c4aaa-94a1-42cf-8f64-8443aaf4e91c",
+                    "time": "00:30-01:00",
+                    "available": false
+                },
+                {
+                    "uuid": "83a2e3ed-1c2c-4f42-8da7-0632e4c4cd1c",
+                    "time": "01:00-01:30",
+                    "available": false
+                },
+                {
+                    "uuid": "f0ddb4e2-cc4f-44d0-b647-96e3e044812b",
+                    "time": "01:30-02:00",
+                    "available": false
+                },
+                {
+                    "uuid": "757e3c62-ce2e-46f1-80ef-4682bede2d32",
+                    "time": "02:00-02:30",
+                    "available": false
+                },
+                {
+                    "uuid": "f6399f92-9348-4dd0-8069-c2ec0ac2cc09",
+                    "time": "02:30-03:00",
+                    "available": false
+                },
+                {
+                    "uuid": "759c52a9-7b7e-46cc-bd36-67c6dd9a5ca6",
+                    "time": "03:00-03:30",
+                    "available": false
+                },
+                {
+                    "uuid": "ccce747f-a2fe-4051-a529-ebfc4f4460f1",
+                    "time": "03:30-04:00",
+                    "available": false
+                },
+                {
+                    "uuid": "c7b0fa8e-7ef9-4437-b4cf-f84ac2037a1c",
+                    "time": "04:00-04:30",
+                    "available": false
+                },
+                {
+                    "uuid": "07a43d2f-81cf-451a-b875-6c9d467da78d",
+                    "time": "04:30-05:00",
+                    "available": false
+                },
+                {
+                    "uuid": "5132310b-1661-4211-8ee8-ff4f93ed9ea6",
+                    "time": "05:00-05:30",
+                    "available": false
+                },
+                {
+                    "uuid": "d00d111b-e40d-44a3-ba1c-ff242a43b527",
+                    "time": "05:30-06:00",
+                    "available": false
+                },
+                {
+                    "uuid": "31706939-1bf5-4ab0-b04e-29ec9748eadc",
+                    "time": "06:00-06:30",
+                    "available": false
+                },
+                {
+                    "uuid": "bc817506-4d70-42b9-98a7-e724711d5572",
+                    "time": "06:30-07:00",
+                    "available": false
+                },
+                {
+                    "uuid": "313782eb-5bad-4c7d-8c45-8db74f6151a9",
+                    "time": "07:00-07:30",
+                    "available": false
+                },
+                {
+                    "uuid": "b946d7e2-68ea-48bd-a9f6-942960796c93",
+                    "time": "07:30-08:00",
+                    "available": false
+                },
+                {
+                    "uuid": "0ec51b41-6f4d-4e5f-80e0-67cf8b18e02a",
+                    "time": "08:00-08:30",
+                    "available": false
+                },
+                {
+                    "uuid": "a8487669-a643-4852-9721-98896c81918a",
+                    "time": "08:30-09:00",
+                    "available": false
+                },
+                {
+                    "uuid": "73df5b8e-8b45-4fe8-9030-f2a8400f129f",
+                    "time": "09:00-09:30",
+                    "available": false
+                },
+                {
+                    "uuid": "f3a0cd70-f851-4ff0-8dde-c55103818e34",
+                    "time": "09:30-10:00",
+                    "available": false
+                },
+                {
+                    "uuid": "a9a65b11-b3aa-469e-a00d-a2ef2dd1a632",
+                    "time": "10:00-10:30",
+                    "available": false
+                },
+                {
+                    "uuid": "d9b8168c-f6d8-402c-b3e9-ea77fec4e177",
+                    "time": "10:30-11:00",
+                    "available": false
+                },
+                {
+                    "uuid": "ae8d0eec-7e12-4eb2-b703-d40b1403ce8e",
+                    "time": "11:00-11:30",
+                    "available": false
+                },
+                {
+                    "uuid": "514b2b13-33f5-4ab1-80b2-afd6ca060be6",
+                    "time": "11:30-12:00",
+                    "available": false
+                },
+                {
+                    "uuid": "1213ba54-5184-4c21-a3da-cbcc6e33a545",
+                    "time": "12:00-12:30",
+                    "available": false
+                },
+                {
+                    "uuid": "d0b2563d-abd6-499e-be1c-c0b5a905ad5e",
+                    "time": "12:30-13:00",
+                    "available": false
+                },
+                {
+                    "uuid": "762a934f-8030-4ab9-aec1-5f709fc32897",
+                    "time": "13:00-13:30",
+                    "available": false
+                },
+                {
+                    "uuid": "ceb9df41-ffd1-49de-a6f4-f84ac724712d",
+                    "time": "13:30-14:00",
+                    "available": false
+                },
+                {
+                    "uuid": "77cc5769-143a-4086-8630-6a22f19b0517",
+                    "time": "14:00-14:30",
+                    "available": false
+                },
+                {
+                    "uuid": "61f6264f-f9a2-4195-a379-3029f9181692",
+                    "time": "14:30-15:00",
+                    "available": false
+                },
+                {
+                    "uuid": "af55a6d2-3bd7-4839-9c38-a789bd4e6143",
+                    "time": "15:00-15:30",
+                    "available": false
+                },
+                {
+                    "uuid": "6663fccc-91ff-4fd7-9e4b-44277a7b5857",
+                    "time": "15:30-16:00",
+                    "available": false
+                },
+                {
+                    "uuid": "38250a90-ca80-4ad5-b407-c5ed772b18cf",
+                    "time": "16:00-16:30",
+                    "available": false
+                },
+                {
+                    "uuid": "a0da0532-9daf-46cf-b5a6-456d3ea98995",
+                    "time": "16:30-17:00",
+                    "available": false
+                },
+                {
+                    "uuid": "d66b4ea3-9315-46a0-8b7f-4b88ee1b6dfd",
+                    "time": "17:00-17:30",
+                    "available": false
+                },
+                {
+                    "uuid": "1463437a-0555-4d6a-a0f9-7ea273156917",
+                    "time": "17:30-18:00",
+                    "available": false
+                },
+                {
+                    "uuid": "747c5bee-d816-47a2-b101-9eb1ced13e42",
+                    "time": "18:00-18:30",
+                    "available": false
+                },
+                {
+                    "uuid": "b8c974ad-a175-4a10-bef7-0466954687c7",
+                    "time": "18:30-19:00",
+                    "available": false
+                },
+                {
+                    "uuid": "b3f47a39-7299-43b4-a51b-555c9c0e8b26",
+                    "time": "19:00-19:30",
+                    "available": false
+                },
+                {
+                    "uuid": "bd2223a1-f2e3-4868-ac5a-54947ee505fd",
+                    "time": "19:30-20:00",
+                    "available": false
+                },
+                {
+                    "uuid": "07dd988a-ec2b-4571-a209-6476936a3393",
+                    "time": "20:00-20:30",
+                    "available": false
+                },
+                {
+                    "uuid": "552da633-2ef7-4039-b94d-144c3df8aae6",
+                    "time": "20:30-21:00",
+                    "available": false
+                },
+                {
+                    "uuid": "9b19a3c0-c82e-4622-aa98-d8cb5e4c4aa4",
+                    "time": "21:00-21:30",
+                    "available": false
+                },
+                {
+                    "uuid": "a34bf0bd-0d56-4264-9b4f-6a617fe15707",
+                    "time": "21:30-22:00",
+                    "available": false
+                },
+                {
+                    "uuid": "963b996d-7936-437b-8c66-cfdee47fde11",
+                    "time": "22:00-22:30",
+                    "available": false
+                },
+                {
+                    "uuid": "b75fb770-b2c3-4117-bd65-075ac582997b",
+                    "time": "22:30-23:00",
+                    "available": false
+                },
+                {
+                    "uuid": "768f5c01-3e0c-455c-9d9c-50853781babd",
+                    "time": "23:00-23:30",
+                    "available": false
+                },
+                {
+                    "uuid": "728c748c-b08f-486b-b585-e1c3851a119d",
+                    "time": "23:30-00:00",
+                    "available": false
+                }
+            ],
+            "available": false
+        },
+        {
+            "uuid": "2b4240c0-877e-44db-b235-99049719a8ed",
+            "day": "Tu",
+            "timeSlots": [
+                {
+                    "uuid": "21121d75-50ac-4c3d-b579-70aa469251a4",
+                    "time": "00:00-00:30",
+                    "available": false
+                },
+                {
+                    "uuid": "2924be5c-aee9-4013-94bf-82f5ba35408d",
+                    "time": "00:30-01:00",
+                    "available": false
+                },
+                {
+                    "uuid": "ce84af36-36a9-4e78-acf8-f6c2b9bdfc02",
+                    "time": "01:00-01:30",
+                    "available": false
+                },
+                {
+                    "uuid": "bccf3572-180e-4954-982f-5f79b7be50d3",
+                    "time": "01:30-02:00",
+                    "available": false
+                },
+                {
+                    "uuid": "bf34da7f-87cc-4c31-957d-18c9dc63c4ff",
+                    "time": "02:00-02:30",
+                    "available": false
+                },
+                {
+                    "uuid": "058207e5-f1c3-4b9b-bdc6-827bb24047b9",
+                    "time": "02:30-03:00",
+                    "available": false
+                },
+                {
+                    "uuid": "95303cf8-b6df-49d8-9193-0a425503aa94",
+                    "time": "03:00-03:30",
+                    "available": false
+                },
+                {
+                    "uuid": "fb42699a-28a6-4037-aee6-c5146b61ece8",
+                    "time": "03:30-04:00",
+                    "available": false
+                },
+                {
+                    "uuid": "5db19b26-9a0f-40f5-b2fc-be23425b6136",
+                    "time": "04:00-04:30",
+                    "available": false
+                },
+                {
+                    "uuid": "4b1739ae-c013-4aef-a54e-3d2a93cc8d55",
+                    "time": "04:30-05:00",
+                    "available": false
+                },
+                {
+                    "uuid": "aff1f1a0-082e-4405-90f4-4252cd25404d",
+                    "time": "05:00-05:30",
+                    "available": false
+                },
+                {
+                    "uuid": "babd3158-c04d-4a1b-b7ff-eef918e990f7",
+                    "time": "05:30-06:00",
+                    "available": false
+                },
+                {
+                    "uuid": "fb374a9a-1add-418c-b69f-0080b90cb788",
+                    "time": "06:00-06:30",
+                    "available": false
+                },
+                {
+                    "uuid": "4cabd38c-3513-4992-8af4-15c816f1f4b0",
+                    "time": "06:30-07:00",
+                    "available": false
+                },
+                {
+                    "uuid": "b8e95dc3-fd13-4744-aa0b-43407fb56cfa",
+                    "time": "07:00-07:30",
+                    "available": false
+                },
+                {
+                    "uuid": "93c9a151-fa25-44f1-b0e0-628a4d254e3e",
+                    "time": "07:30-08:00",
+                    "available": false
+                },
+                {
+                    "uuid": "b6554bae-4f41-4e00-8952-d986f248661d",
+                    "time": "08:00-08:30",
+                    "available": false
+                },
+                {
+                    "uuid": "94ab80f5-6641-4722-90d3-f66d15b3fdfd",
+                    "time": "08:30-09:00",
+                    "available": false
+                },
+                {
+                    "uuid": "efa31b54-2493-4c10-9d6b-18aba797bc13",
+                    "time": "09:00-09:30",
+                    "available": false
+                },
+                {
+                    "uuid": "fe699af8-5cce-49e1-b19d-d2d3e377bfc5",
+                    "time": "09:30-10:00",
+                    "available": false
+                },
+                {
+                    "uuid": "3e54de11-11ab-47dc-9b63-1f795da017b9",
+                    "time": "10:00-10:30",
+                    "available": false
+                },
+                {
+                    "uuid": "66a81134-2b22-4f83-be9a-5b0b3dfa6d62",
+                    "time": "10:30-11:00",
+                    "available": false
+                },
+                {
+                    "uuid": "c300260d-5ed6-4c4e-9cd0-1dc2f6d56e06",
+                    "time": "11:00-11:30",
+                    "available": false
+                },
+                {
+                    "uuid": "27ec70fb-a80f-4e15-b90b-c192be373059",
+                    "time": "11:30-12:00",
+                    "available": false
+                },
+                {
+                    "uuid": "ec92220b-305e-4936-891f-ef001fc242ed",
+                    "time": "12:00-12:30",
+                    "available": false
+                },
+                {
+                    "uuid": "6697f6ca-9310-410a-8802-03b2fb6b8d1a",
+                    "time": "12:30-13:00",
+                    "available": false
+                },
+                {
+                    "uuid": "9508d757-5a02-4aad-ac79-3e96be80981f",
+                    "time": "13:00-13:30",
+                    "available": false
+                },
+                {
+                    "uuid": "cbd8451b-9bcf-4967-93c0-bebfda0ad333",
+                    "time": "13:30-14:00",
+                    "available": false
+                },
+                {
+                    "uuid": "731db08d-436e-4cfa-bad4-12d00e058e13",
+                    "time": "14:00-14:30",
+                    "available": false
+                },
+                {
+                    "uuid": "7eb4bcd0-b793-4b30-a3cb-c547678ebad6",
+                    "time": "14:30-15:00",
+                    "available": false
+                },
+                {
+                    "uuid": "3466be3a-3722-4e76-964a-3acf1227ccaa",
+                    "time": "15:00-15:30",
+                    "available": false
+                },
+                {
+                    "uuid": "83c1c110-9e78-41ed-8f03-a3b87caac2e1",
+                    "time": "15:30-16:00",
+                    "available": false
+                },
+                {
+                    "uuid": "57b39450-50f9-472a-abb9-849a3f5549fa",
+                    "time": "16:00-16:30",
+                    "available": false
+                },
+                {
+                    "uuid": "c25af603-c152-4393-b86d-682b984d132a",
+                    "time": "16:30-17:00",
+                    "available": false
+                },
+                {
+                    "uuid": "5addbaba-82df-4ff2-9352-1ec576651915",
+                    "time": "17:00-17:30",
+                    "available": false
+                },
+                {
+                    "uuid": "a1ca943d-0dd6-4a1f-9b9b-5975a0237f2a",
+                    "time": "17:30-18:00",
+                    "available": false
+                },
+                {
+                    "uuid": "292e7745-3ddd-4999-9e0f-8a8c956961a7",
+                    "time": "18:00-18:30",
+                    "available": false
+                },
+                {
+                    "uuid": "409694c3-c886-463a-bd32-926212e81b55",
+                    "time": "18:30-19:00",
+                    "available": false
+                },
+                {
+                    "uuid": "5c0c155a-c3ed-45f4-9b03-ee93bb7a8122",
+                    "time": "19:00-19:30",
+                    "available": false
+                },
+                {
+                    "uuid": "67fc9d1f-c0b0-4f3a-8453-7039f8be1072",
+                    "time": "19:30-20:00",
+                    "available": false
+                },
+                {
+                    "uuid": "84202569-592c-4a4d-b8da-b8929680f723",
+                    "time": "20:00-20:30",
+                    "available": false
+                },
+                {
+                    "uuid": "e65def1e-889b-493d-8562-48d3c5a60f13",
+                    "time": "20:30-21:00",
+                    "available": false
+                },
+                {
+                    "uuid": "8b1db40b-3256-4bf6-b165-ce699edd986a",
+                    "time": "21:00-21:30",
+                    "available": false
+                },
+                {
+                    "uuid": "bddbd232-e9d8-4fe6-9b05-493f05e61dbc",
+                    "time": "21:30-22:00",
+                    "available": false
+                },
+                {
+                    "uuid": "00307418-c82f-42be-b198-26ca2c01f4cb",
+                    "time": "22:00-22:30",
+                    "available": false
+                },
+                {
+                    "uuid": "2b08fb47-55f0-4098-902f-fea1d1424edc",
+                    "time": "22:30-23:00",
+                    "available": false
+                },
+                {
+                    "uuid": "d4c620a0-b921-4aa9-9b78-a2f27b439ebc",
+                    "time": "23:00-23:30",
+                    "available": false
+                },
+                {
+                    "uuid": "ea7c2a1e-a8a7-4023-890f-33242d29f753",
+                    "time": "23:30-00:00",
+                    "available": false
+                }
+            ],
+            "available": false
+        },
+        {
+            "uuid": "6c5279c9-c1d8-4a8f-b93c-91c884dfbfee",
+            "day": "W",
+            "timeSlots": [
+                {
+                    "uuid": "dcbd4de5-3d55-4d0e-8a07-a38574fb0f0c",
+                    "time": "00:00-00:30",
+                    "available": false
+                },
+                {
+                    "uuid": "5800f057-8d89-4f78-b83a-a5fbd8e038c3",
+                    "time": "00:30-01:00",
+                    "available": false
+                },
+                {
+                    "uuid": "ad71d54d-758e-4ef9-9422-e906769ba432",
+                    "time": "01:00-01:30",
+                    "available": false
+                },
+                {
+                    "uuid": "f2d1c792-37f9-40d4-a664-6e4ccbe02b2f",
+                    "time": "01:30-02:00",
+                    "available": false
+                },
+                {
+                    "uuid": "85bdccd7-78da-4dc3-9695-b6721ebd8bdc",
+                    "time": "02:00-02:30",
+                    "available": false
+                },
+                {
+                    "uuid": "f6453487-0450-413f-b225-6a1cc1fdbe07",
+                    "time": "02:30-03:00",
+                    "available": false
+                },
+                {
+                    "uuid": "082018e4-15a1-4f73-bfe4-cce75332124b",
+                    "time": "03:00-03:30",
+                    "available": false
+                },
+                {
+                    "uuid": "28466f53-ecb6-407d-8087-aac83faaeaf4",
+                    "time": "03:30-04:00",
+                    "available": false
+                },
+                {
+                    "uuid": "6c4b7cbf-0c23-4f73-b8e9-ecd158f8646e",
+                    "time": "04:00-04:30",
+                    "available": false
+                },
+                {
+                    "uuid": "4c9bc963-60e1-417d-a46e-ec0ff3a3d9c5",
+                    "time": "04:30-05:00",
+                    "available": false
+                },
+                {
+                    "uuid": "d7338703-4ae5-4841-9ded-056d2eb02910",
+                    "time": "05:00-05:30",
+                    "available": false
+                },
+                {
+                    "uuid": "accb2435-8402-4d33-87c4-fb9885451a79",
+                    "time": "05:30-06:00",
+                    "available": false
+                },
+                {
+                    "uuid": "6e231f30-1f6a-410c-be33-257fb8195365",
+                    "time": "06:00-06:30",
+                    "available": false
+                },
+                {
+                    "uuid": "68f09b4b-4297-461f-a37d-6ce4b7559254",
+                    "time": "06:30-07:00",
+                    "available": false
+                },
+                {
+                    "uuid": "1def3c0d-34d7-476c-8097-e09f7b1f6042",
+                    "time": "07:00-07:30",
+                    "available": false
+                },
+                {
+                    "uuid": "586c13c3-9c8e-446b-9b89-76953020c650",
+                    "time": "07:30-08:00",
+                    "available": false
+                },
+                {
+                    "uuid": "d03274fd-99c8-490b-acc2-254b06757d5d",
+                    "time": "08:00-08:30",
+                    "available": false
+                },
+                {
+                    "uuid": "8d73c586-bc60-4b47-8af8-3b92438f7c47",
+                    "time": "08:30-09:00",
+                    "available": false
+                },
+                {
+                    "uuid": "fe40327b-8b31-44c1-bda4-078cadacd21d",
+                    "time": "09:00-09:30",
+                    "available": false
+                },
+                {
+                    "uuid": "977608fa-eaab-4792-b4a3-3d53385a89a6",
+                    "time": "09:30-10:00",
+                    "available": false
+                },
+                {
+                    "uuid": "d2469485-dcd3-48bb-9cbb-bf1a5bb9baaa",
+                    "time": "10:00-10:30",
+                    "available": false
+                },
+                {
+                    "uuid": "51a051bc-59d6-4c22-b6cf-b81f60b878df",
+                    "time": "10:30-11:00",
+                    "available": false
+                },
+                {
+                    "uuid": "49c1a8be-f9fb-4d26-a27a-b9ce36f43b66",
+                    "time": "11:00-11:30",
+                    "available": false
+                },
+                {
+                    "uuid": "c0177333-85a0-4246-99eb-e7c3d7dca164",
+                    "time": "11:30-12:00",
+                    "available": false
+                },
+                {
+                    "uuid": "a1a1a73e-d61f-440a-b329-485fec59ade4",
+                    "time": "12:00-12:30",
+                    "available": false
+                },
+                {
+                    "uuid": "8e45f95e-4a55-41dc-8d98-7ae3ebb67dd2",
+                    "time": "12:30-13:00",
+                    "available": false
+                },
+                {
+                    "uuid": "a2aed86a-7d4a-4e2e-840a-b6f73b8545ce",
+                    "time": "13:00-13:30",
+                    "available": false
+                },
+                {
+                    "uuid": "f5255a0f-8aa2-4aa1-b460-21aba7a4f6f4",
+                    "time": "13:30-14:00",
+                    "available": false
+                },
+                {
+                    "uuid": "38f0d0c0-e3b0-48c3-aaf8-bdcfae2370e2",
+                    "time": "14:00-14:30",
+                    "available": false
+                },
+                {
+                    "uuid": "1ee7c6a9-089d-4345-a85d-58fad011fda9",
+                    "time": "14:30-15:00",
+                    "available": false
+                },
+                {
+                    "uuid": "5d70c241-5d12-4755-8dca-495da012920b",
+                    "time": "15:00-15:30",
+                    "available": false
+                },
+                {
+                    "uuid": "86a5b850-6eeb-4871-b859-55a0bdde9bb6",
+                    "time": "15:30-16:00",
+                    "available": false
+                },
+                {
+                    "uuid": "cd149a71-76ce-4e1c-9378-a959cebc4e22",
+                    "time": "16:00-16:30",
+                    "available": false
+                },
+                {
+                    "uuid": "159ffd21-fe85-443c-81bc-fdd7de82c497",
+                    "time": "16:30-17:00",
+                    "available": false
+                },
+                {
+                    "uuid": "266ea32b-168c-44ff-9a61-6b56c2e67a20",
+                    "time": "17:00-17:30",
+                    "available": false
+                },
+                {
+                    "uuid": "1ad6ab48-09ff-4e13-aab1-f7c57b039fd5",
+                    "time": "17:30-18:00",
+                    "available": false
+                },
+                {
+                    "uuid": "7249444f-4df5-4be2-add9-7689a1357d78",
+                    "time": "18:00-18:30",
+                    "available": false
+                },
+                {
+                    "uuid": "452e283b-8b78-4b5d-bda8-1b0d672ba9e8",
+                    "time": "18:30-19:00",
+                    "available": false
+                },
+                {
+                    "uuid": "22438d2e-665b-4f21-b3c7-2b0dd43c10ab",
+                    "time": "19:00-19:30",
+                    "available": false
+                },
+                {
+                    "uuid": "1afbf436-d764-466d-ac45-ed0cf0964ac0",
+                    "time": "19:30-20:00",
+                    "available": false
+                },
+                {
+                    "uuid": "772fe706-b5fc-4e4c-9c29-7737378ac036",
+                    "time": "20:00-20:30",
+                    "available": false
+                },
+                {
+                    "uuid": "40bd7549-da2d-436f-af8b-f8f56358b461",
+                    "time": "20:30-21:00",
+                    "available": false
+                },
+                {
+                    "uuid": "54607699-a851-466b-a66a-a7c078cf4f74",
+                    "time": "21:00-21:30",
+                    "available": false
+                },
+                {
+                    "uuid": "e97d9fa6-2fb1-4b7d-a6cd-8cedc7418a8a",
+                    "time": "21:30-22:00",
+                    "available": false
+                },
+                {
+                    "uuid": "309aa231-d6ef-4f46-94fb-5a2fea0721e7",
+                    "time": "22:00-22:30",
+                    "available": false
+                },
+                {
+                    "uuid": "f2dfe797-21ba-4b16-bc8a-72099b47bf71",
+                    "time": "22:30-23:00",
+                    "available": false
+                },
+                {
+                    "uuid": "b602669a-0583-4855-a7ad-7bdcec41a092",
+                    "time": "23:00-23:30",
+                    "available": false
+                },
+                {
+                    "uuid": "52581858-e3c7-4911-a5e1-951dcdd4a459",
+                    "time": "23:30-00:00",
+                    "available": false
+                }
+            ],
+            "available": false
+        },
+        {
+            "uuid": "ef9ba1b5-d0d9-4e96-9160-c3050e0c5960",
+            "day": "Th",
+            "timeSlots": [
+                {
+                    "uuid": "ff98e88d-2733-4493-9ba8-9328dc1a3378",
+                    "time": "00:00-00:30",
+                    "available": false
+                },
+                {
+                    "uuid": "6371b4fa-ce2b-47ee-994c-ec7fb6d75f66",
+                    "time": "00:30-01:00",
+                    "available": false
+                },
+                {
+                    "uuid": "e2bbd3ec-d70c-46d6-b3cb-53a7f3d9725a",
+                    "time": "01:00-01:30",
+                    "available": false
+                },
+                {
+                    "uuid": "73f13386-2dcd-4bd9-b4f6-016b3225ea85",
+                    "time": "01:30-02:00",
+                    "available": false
+                },
+                {
+                    "uuid": "48200435-42c5-4779-b159-9d5b36b290a2",
+                    "time": "02:00-02:30",
+                    "available": false
+                },
+                {
+                    "uuid": "09f9ff6b-416d-49aa-b0e5-57872c2aa6e0",
+                    "time": "02:30-03:00",
+                    "available": false
+                },
+                {
+                    "uuid": "0013493d-e7ea-4d20-a2d9-4a54a8b1cf43",
+                    "time": "03:00-03:30",
+                    "available": false
+                },
+                {
+                    "uuid": "7cded920-079c-4f78-ad69-7b227e2140ca",
+                    "time": "03:30-04:00",
+                    "available": false
+                },
+                {
+                    "uuid": "19c44f20-b81e-4524-b2c2-30dcb25378c3",
+                    "time": "04:00-04:30",
+                    "available": false
+                },
+                {
+                    "uuid": "1241bce7-a6dc-4f54-83ed-9e2927b1eaab",
+                    "time": "04:30-05:00",
+                    "available": false
+                },
+                {
+                    "uuid": "fdf968fa-b4c3-41c7-928a-2813c4c411e4",
+                    "time": "05:00-05:30",
+                    "available": false
+                },
+                {
+                    "uuid": "fd2947a2-341d-421e-83b2-f6c4cbeaf98f",
+                    "time": "05:30-06:00",
+                    "available": false
+                },
+                {
+                    "uuid": "a651a74b-efaa-4508-b51f-2b39978b1c68",
+                    "time": "06:00-06:30",
+                    "available": false
+                },
+                {
+                    "uuid": "6c27dbca-5cdb-46c9-b160-0243b94e1d81",
+                    "time": "06:30-07:00",
+                    "available": false
+                },
+                {
+                    "uuid": "86ed08ea-34df-4316-bba6-c66e16111afe",
+                    "time": "07:00-07:30",
+                    "available": false
+                },
+                {
+                    "uuid": "2e51dc68-4ec4-4df5-bbb2-6df20eee39fe",
+                    "time": "07:30-08:00",
+                    "available": false
+                },
+                {
+                    "uuid": "0b834160-6069-43fd-861a-366729313b21",
+                    "time": "08:00-08:30",
+                    "available": false
+                },
+                {
+                    "uuid": "3577cdd3-be3a-43ed-8c5e-2fb7281069f6",
+                    "time": "08:30-09:00",
+                    "available": false
+                },
+                {
+                    "uuid": "0f158b53-6f98-475e-a387-5273b9bfcb46",
+                    "time": "09:00-09:30",
+                    "available": false
+                },
+                {
+                    "uuid": "5bae59f7-d382-4bb2-90b1-ad89bc9c19da",
+                    "time": "09:30-10:00",
+                    "available": false
+                },
+                {
+                    "uuid": "6a33e715-5ba3-4161-b897-70673bb9f200",
+                    "time": "10:00-10:30",
+                    "available": false
+                },
+                {
+                    "uuid": "0967cf23-7e3a-474b-9069-9b6568928388",
+                    "time": "10:30-11:00",
+                    "available": false
+                },
+                {
+                    "uuid": "5be8d2ff-5c98-460f-a6ea-041ca2bdc23f",
+                    "time": "11:00-11:30",
+                    "available": false
+                },
+                {
+                    "uuid": "d6410d3b-8b9d-4baf-9cb0-92070a35bf0e",
+                    "time": "11:30-12:00",
+                    "available": false
+                },
+                {
+                    "uuid": "2421c069-5de3-4fbe-a8c3-18c860c40514",
+                    "time": "12:00-12:30",
+                    "available": false
+                },
+                {
+                    "uuid": "05da6a71-196f-482f-b48d-874e4260189e",
+                    "time": "12:30-13:00",
+                    "available": false
+                },
+                {
+                    "uuid": "875c6bda-e86b-48d4-9757-7d26ca33e0c2",
+                    "time": "13:00-13:30",
+                    "available": false
+                },
+                {
+                    "uuid": "252d1f67-f89c-44e0-b028-b0102e4089f6",
+                    "time": "13:30-14:00",
+                    "available": false
+                },
+                {
+                    "uuid": "d5411529-3fc5-4217-92ca-7521e0f84312",
+                    "time": "14:00-14:30",
+                    "available": false
+                },
+                {
+                    "uuid": "92cf5ee3-0302-4544-bacb-c2a7b3aeddb0",
+                    "time": "14:30-15:00",
+                    "available": false
+                },
+                {
+                    "uuid": "22e8b09b-3481-4984-b63b-6f8e8b66f7a5",
+                    "time": "15:00-15:30",
+                    "available": false
+                },
+                {
+                    "uuid": "61675cfc-58fd-4bf0-88cb-f05d79318e43",
+                    "time": "15:30-16:00",
+                    "available": false
+                },
+                {
+                    "uuid": "9200eee9-88ff-4ac1-a825-2a90b4ea98b1",
+                    "time": "16:00-16:30",
+                    "available": false
+                },
+                {
+                    "uuid": "ba2ed21a-0dd8-426a-8d3c-e0b40f2cca73",
+                    "time": "16:30-17:00",
+                    "available": false
+                },
+                {
+                    "uuid": "57343085-61c8-44d7-97a8-fa900924497e",
+                    "time": "17:00-17:30",
+                    "available": false
+                },
+                {
+                    "uuid": "8f92abaf-61ce-41c6-ad19-57b097259555",
+                    "time": "17:30-18:00",
+                    "available": false
+                },
+                {
+                    "uuid": "8336752f-0bad-46fa-867e-6dad5b621e7d",
+                    "time": "18:00-18:30",
+                    "available": false
+                },
+                {
+                    "uuid": "ccded418-743e-477a-be05-f1dc6e02ab98",
+                    "time": "18:30-19:00",
+                    "available": false
+                },
+                {
+                    "uuid": "95505d21-4184-4a73-8dd7-6196383f03cb",
+                    "time": "19:00-19:30",
+                    "available": false
+                },
+                {
+                    "uuid": "7bee807c-e59a-4579-80d8-4044815b17c9",
+                    "time": "19:30-20:00",
+                    "available": false
+                },
+                {
+                    "uuid": "fcc7dd35-403b-4b6e-a070-4ce2cead268a",
+                    "time": "20:00-20:30",
+                    "available": false
+                },
+                {
+                    "uuid": "439b7bca-74fb-4b16-a578-d8841b91c866",
+                    "time": "20:30-21:00",
+                    "available": false
+                },
+                {
+                    "uuid": "ff5df8e7-c782-478d-a206-244a059bc154",
+                    "time": "21:00-21:30",
+                    "available": false
+                },
+                {
+                    "uuid": "93ec01b1-20d8-47f9-b84c-675e95a17c3c",
+                    "time": "21:30-22:00",
+                    "available": false
+                },
+                {
+                    "uuid": "a906d491-a5a2-4340-b015-390dc485d0af",
+                    "time": "22:00-22:30",
+                    "available": false
+                },
+                {
+                    "uuid": "ba73708a-22b4-4321-931d-80ba9b3a2183",
+                    "time": "22:30-23:00",
+                    "available": false
+                },
+                {
+                    "uuid": "52010ba1-9610-4a30-a46d-30f40a836d3c",
+                    "time": "23:00-23:30",
+                    "available": false
+                },
+                {
+                    "uuid": "ec5e1091-d4b5-414c-b398-6ead53394509",
+                    "time": "23:30-00:00",
+                    "available": false
+                }
+            ],
+            "available": false
+        },
+        {
+            "uuid": "9cefbc79-4366-48df-bb53-cf0bd448fb1b",
+            "day": "F",
+            "timeSlots": [
+                {
+                    "uuid": "e7a32d5a-f7ed-4c71-9fcf-9e3e68cd73c9",
+                    "time": "00:00-00:30",
+                    "available": false
+                },
+                {
+                    "uuid": "2ce5bd70-e7c4-436e-b7a6-815c2db37979",
+                    "time": "00:30-01:00",
+                    "available": false
+                },
+                {
+                    "uuid": "a1504db5-5240-4fe2-9681-2dc4152c5fa2",
+                    "time": "01:00-01:30",
+                    "available": false
+                },
+                {
+                    "uuid": "27ef55c7-127e-4f54-9c82-671a9e9467f6",
+                    "time": "01:30-02:00",
+                    "available": false
+                },
+                {
+                    "uuid": "1e457acc-718a-4c6d-94a1-db8e8826fc8a",
+                    "time": "02:00-02:30",
+                    "available": false
+                },
+                {
+                    "uuid": "72689577-b4e8-4086-9000-27032fe5eaa4",
+                    "time": "02:30-03:00",
+                    "available": false
+                },
+                {
+                    "uuid": "6d2d1948-e4f0-48e5-8927-39c173d3c1ff",
+                    "time": "03:00-03:30",
+                    "available": false
+                },
+                {
+                    "uuid": "3d39b350-0bde-4b86-801c-63b2626adcb3",
+                    "time": "03:30-04:00",
+                    "available": false
+                },
+                {
+                    "uuid": "b12586bb-d6ba-41da-920f-a357c83d8356",
+                    "time": "04:00-04:30",
+                    "available": false
+                },
+                {
+                    "uuid": "7c68c51d-6254-4474-a570-2fc3216ab9fa",
+                    "time": "04:30-05:00",
+                    "available": false
+                },
+                {
+                    "uuid": "32f3f7db-5107-4933-a459-f67ac2395e87",
+                    "time": "05:00-05:30",
+                    "available": false
+                },
+                {
+                    "uuid": "f75a5e8c-e9a7-49b0-9379-eb192fe0c312",
+                    "time": "05:30-06:00",
+                    "available": false
+                },
+                {
+                    "uuid": "7f3b70dd-8ffb-4f34-b6d6-e7843cdbe0ac",
+                    "time": "06:00-06:30",
+                    "available": false
+                },
+                {
+                    "uuid": "a39d6936-cccb-4737-873d-39a7976716c2",
+                    "time": "06:30-07:00",
+                    "available": false
+                },
+                {
+                    "uuid": "063f2aac-fe10-487d-a935-49a72e3a0fb7",
+                    "time": "07:00-07:30",
+                    "available": false
+                },
+                {
+                    "uuid": "2b1116a3-5983-491c-9fb1-dd2098381b50",
+                    "time": "07:30-08:00",
+                    "available": false
+                },
+                {
+                    "uuid": "f106c5a1-6817-4742-9df5-656fc0e9e04c",
+                    "time": "08:00-08:30",
+                    "available": false
+                },
+                {
+                    "uuid": "df93440a-8931-4449-949f-401cb4c1b966",
+                    "time": "08:30-09:00",
+                    "available": false
+                },
+                {
+                    "uuid": "b96a3e17-39f6-4eb1-ba58-28cffb54c335",
+                    "time": "09:00-09:30",
+                    "available": false
+                },
+                {
+                    "uuid": "65d5f8eb-edc6-4d1e-8e74-d36c7df226fb",
+                    "time": "09:30-10:00",
+                    "available": false
+                },
+                {
+                    "uuid": "6f54b724-8623-49d6-bd07-40c74832a9df",
+                    "time": "10:00-10:30",
+                    "available": false
+                },
+                {
+                    "uuid": "df521a58-8abe-43b7-8d55-1d7778a5f1be",
+                    "time": "10:30-11:00",
+                    "available": false
+                },
+                {
+                    "uuid": "15100c98-4b03-4c00-9bfa-45416abc3fb9",
+                    "time": "11:00-11:30",
+                    "available": false
+                },
+                {
+                    "uuid": "9d868859-b4a7-4718-a056-654b082de624",
+                    "time": "11:30-12:00",
+                    "available": false
+                },
+                {
+                    "uuid": "9fedd64b-bf94-4145-96b7-49a5af892504",
+                    "time": "12:00-12:30",
+                    "available": false
+                },
+                {
+                    "uuid": "dee59108-e0e5-44c7-b2a1-9c7d93ef48b8",
+                    "time": "12:30-13:00",
+                    "available": false
+                },
+                {
+                    "uuid": "c8cb3719-b2af-452a-ba33-99e0b452e788",
+                    "time": "13:00-13:30",
+                    "available": false
+                },
+                {
+                    "uuid": "60f56c06-860e-4b92-a335-e8d532bd9f59",
+                    "time": "13:30-14:00",
+                    "available": false
+                },
+                {
+                    "uuid": "84680284-eacb-4dfd-b81f-e10687b9eb4f",
+                    "time": "14:00-14:30",
+                    "available": false
+                },
+                {
+                    "uuid": "d6f5c3b6-fb0f-4637-b23d-ac920e7e7595",
+                    "time": "14:30-15:00",
+                    "available": false
+                },
+                {
+                    "uuid": "6d200584-40d7-446f-9b82-77d400a98d6b",
+                    "time": "15:00-15:30",
+                    "available": false
+                },
+                {
+                    "uuid": "12ad7efd-1a44-414c-9092-3a756f32a174",
+                    "time": "15:30-16:00",
+                    "available": false
+                },
+                {
+                    "uuid": "c51b98e7-9df5-4f51-b274-7c838e3bd779",
+                    "time": "16:00-16:30",
+                    "available": false
+                },
+                {
+                    "uuid": "61147bbd-00de-4bb3-a61f-a7b401391295",
+                    "time": "16:30-17:00",
+                    "available": false
+                },
+                {
+                    "uuid": "d97b1c6a-63c1-41a9-bc50-e8ca126404ce",
+                    "time": "17:00-17:30",
+                    "available": false
+                },
+                {
+                    "uuid": "005cad41-4008-472f-af56-04b939a1a8c6",
+                    "time": "17:30-18:00",
+                    "available": false
+                },
+                {
+                    "uuid": "e61ba3c4-7b7d-48b0-94be-2bbbb2d537c0",
+                    "time": "18:00-18:30",
+                    "available": false
+                },
+                {
+                    "uuid": "6c36a292-b981-4caf-8279-e51465e57236",
+                    "time": "18:30-19:00",
+                    "available": false
+                },
+                {
+                    "uuid": "4b962707-68ea-4773-a847-ff1f0e0ea506",
+                    "time": "19:00-19:30",
+                    "available": false
+                },
+                {
+                    "uuid": "48077dbf-5082-4c0b-bef8-f6224447e9e1",
+                    "time": "19:30-20:00",
+                    "available": false
+                },
+                {
+                    "uuid": "bc2b4ec7-156a-4b2e-87b8-f5d86af375fc",
+                    "time": "20:00-20:30",
+                    "available": false
+                },
+                {
+                    "uuid": "fb2bdc2d-481a-47c6-b3f2-7e98a4ae8ba9",
+                    "time": "20:30-21:00",
+                    "available": false
+                },
+                {
+                    "uuid": "54235296-3ee4-42bc-a137-63fd3c8a8ccd",
+                    "time": "21:00-21:30",
+                    "available": false
+                },
+                {
+                    "uuid": "c7a2fa7c-7755-47f9-a174-6ef80980d6c1",
+                    "time": "21:30-22:00",
+                    "available": false
+                },
+                {
+                    "uuid": "af4ff3fb-4d8c-4148-8771-c8e35ec64aa5",
+                    "time": "22:00-22:30",
+                    "available": false
+                },
+                {
+                    "uuid": "477f8b11-9cea-4575-b49a-967a7b6fa2e8",
+                    "time": "22:30-23:00",
+                    "available": false
+                },
+                {
+                    "uuid": "ef6a7c11-8ee3-4227-82bd-8d25a90e7728",
+                    "time": "23:00-23:30",
+                    "available": false
+                },
+                {
+                    "uuid": "15f967e1-233a-4c51-b59a-9a559956b299",
+                    "time": "23:30-00:00",
+                    "available": false
+                }
+            ],
+            "available": false
+        },
+        {
+            "uuid": "186aeb28-7699-46c6-9035-6ed777a96618",
+            "day": "Sa",
+            "timeSlots": [
+                {
+                    "uuid": "94671cb8-1b6a-4b2e-8956-83418be5a853",
+                    "time": "00:00-00:30",
+                    "available": false
+                },
+                {
+                    "uuid": "751dc096-7b23-4111-86e1-4dcee7df9f5a",
+                    "time": "00:30-01:00",
+                    "available": false
+                },
+                {
+                    "uuid": "678f71f1-3f9b-4617-9ddb-133ab1f61d67",
+                    "time": "01:00-01:30",
+                    "available": false
+                },
+                {
+                    "uuid": "d7997b60-5c19-4dc8-aac2-39cc28de2fbd",
+                    "time": "01:30-02:00",
+                    "available": false
+                },
+                {
+                    "uuid": "6e53426f-3f6d-4717-888f-e8bb139050f3",
+                    "time": "02:00-02:30",
+                    "available": false
+                },
+                {
+                    "uuid": "55592d6c-f978-4f33-bb94-2acc74114b43",
+                    "time": "02:30-03:00",
+                    "available": false
+                },
+                {
+                    "uuid": "05409bc1-a956-4a9b-99b1-ad356bc552e5",
+                    "time": "03:00-03:30",
+                    "available": false
+                },
+                {
+                    "uuid": "0bd247dd-8286-47dd-852f-f1d6e32f59b2",
+                    "time": "03:30-04:00",
+                    "available": false
+                },
+                {
+                    "uuid": "ad32a139-5af3-4292-9d00-2461a785fe07",
+                    "time": "04:00-04:30",
+                    "available": false
+                },
+                {
+                    "uuid": "2aa4c262-1ce0-4179-a53d-4ab93c526ee3",
+                    "time": "04:30-05:00",
+                    "available": false
+                },
+                {
+                    "uuid": "66fc5d38-ab16-4889-8ff5-bef4149e1392",
+                    "time": "05:00-05:30",
+                    "available": false
+                },
+                {
+                    "uuid": "f372e472-530c-4d21-85ef-4cdb9c39bc88",
+                    "time": "05:30-06:00",
+                    "available": false
+                },
+                {
+                    "uuid": "99c111f4-6835-4387-b839-80d25a4ce728",
+                    "time": "06:00-06:30",
+                    "available": false
+                },
+                {
+                    "uuid": "207c9b29-3633-48ed-bd6e-5f380c16d711",
+                    "time": "06:30-07:00",
+                    "available": false
+                },
+                {
+                    "uuid": "2a3c7557-8c88-472a-ad87-2a52f683a9cb",
+                    "time": "07:00-07:30",
+                    "available": false
+                },
+                {
+                    "uuid": "4af35cf1-de45-49cc-b080-1b1c305cc4f4",
+                    "time": "07:30-08:00",
+                    "available": false
+                },
+                {
+                    "uuid": "5c253901-843c-42d5-8581-cdc46a46fc37",
+                    "time": "08:00-08:30",
+                    "available": false
+                },
+                {
+                    "uuid": "72cc1762-4308-4092-b560-0b2162527482",
+                    "time": "08:30-09:00",
+                    "available": false
+                },
+                {
+                    "uuid": "7a64868a-b549-4edf-a9da-3b927765cbe9",
+                    "time": "09:00-09:30",
+                    "available": false
+                },
+                {
+                    "uuid": "c0925759-f78d-46e3-9bbd-1088817fa0f6",
+                    "time": "09:30-10:00",
+                    "available": false
+                },
+                {
+                    "uuid": "aa015520-e364-4ed0-b4e6-72bbf28a92f4",
+                    "time": "10:00-10:30",
+                    "available": false
+                },
+                {
+                    "uuid": "55168ce5-b17e-4807-8235-7a4261733191",
+                    "time": "10:30-11:00",
+                    "available": false
+                },
+                {
+                    "uuid": "fd967889-f8a2-40c0-b55a-adf260aacf1e",
+                    "time": "11:00-11:30",
+                    "available": false
+                },
+                {
+                    "uuid": "d14d3d8b-5328-464b-9b37-7a0963f6d33e",
+                    "time": "11:30-12:00",
+                    "available": false
+                },
+                {
+                    "uuid": "bb78561f-2ed3-410a-9dd3-57fcf28b7fc0",
+                    "time": "12:00-12:30",
+                    "available": false
+                },
+                {
+                    "uuid": "145d4592-b6b9-4331-be77-90ed29466f33",
+                    "time": "12:30-13:00",
+                    "available": false
+                },
+                {
+                    "uuid": "cbb37365-ca46-4555-beac-27ccddee9ee0",
+                    "time": "13:00-13:30",
+                    "available": false
+                },
+                {
+                    "uuid": "7b0d21cf-e2fe-4359-b11e-5b0b1ff2a0b0",
+                    "time": "13:30-14:00",
+                    "available": false
+                },
+                {
+                    "uuid": "0a9dc8df-069a-4f4f-9e39-a62bf369fd8d",
+                    "time": "14:00-14:30",
+                    "available": false
+                },
+                {
+                    "uuid": "701dfd98-4b11-4489-8dc7-7e6b6a39b0c1",
+                    "time": "14:30-15:00",
+                    "available": false
+                },
+                {
+                    "uuid": "d3639baa-1970-4ffa-8583-d66b14f5dcb6",
+                    "time": "15:00-15:30",
+                    "available": false
+                },
+                {
+                    "uuid": "1b7d7908-862c-4e48-969b-bed015fe06b8",
+                    "time": "15:30-16:00",
+                    "available": false
+                },
+                {
+                    "uuid": "db06bdbf-e158-499c-8d24-1ebe7bf90644",
+                    "time": "16:00-16:30",
+                    "available": false
+                },
+                {
+                    "uuid": "1ea6a3cc-0e3c-464f-b0c3-08d3eacb2483",
+                    "time": "16:30-17:00",
+                    "available": false
+                },
+                {
+                    "uuid": "0a0ecfa3-c0d5-4bb1-963c-d1dc42204a13",
+                    "time": "17:00-17:30",
+                    "available": false
+                },
+                {
+                    "uuid": "268e2846-025d-4dc5-b594-159f806a1eec",
+                    "time": "17:30-18:00",
+                    "available": false
+                },
+                {
+                    "uuid": "0b5dc6c7-4299-4b02-9f80-e024bd69ac48",
+                    "time": "18:00-18:30",
+                    "available": false
+                },
+                {
+                    "uuid": "7d29db98-7023-414e-8b3f-4273a663c71c",
+                    "time": "18:30-19:00",
+                    "available": false
+                },
+                {
+                    "uuid": "8999e1b9-6e07-4c1e-bbb0-83f0caaa9723",
+                    "time": "19:00-19:30",
+                    "available": false
+                },
+                {
+                    "uuid": "c072f798-4318-4d79-9680-e565f1fba0b1",
+                    "time": "19:30-20:00",
+                    "available": false
+                },
+                {
+                    "uuid": "e775f972-0aae-4052-a104-54db7c4106b2",
+                    "time": "20:00-20:30",
+                    "available": false
+                },
+                {
+                    "uuid": "ad666cc1-97d9-4fa9-9c61-a7b3ca1f00cc",
+                    "time": "20:30-21:00",
+                    "available": false
+                },
+                {
+                    "uuid": "43085308-e646-4d40-98f0-ab458eb48cc2",
+                    "time": "21:00-21:30",
+                    "available": false
+                },
+                {
+                    "uuid": "646e25f0-d60c-4dc0-85b4-26087704c859",
+                    "time": "21:30-22:00",
+                    "available": false
+                },
+                {
+                    "uuid": "7d91b5d0-46f8-4eb3-85de-488f8cc0ce3f",
+                    "time": "22:00-22:30",
+                    "available": false
+                },
+                {
+                    "uuid": "402ccaac-a98d-478c-8e75-c978d7d4be18",
+                    "time": "22:30-23:00",
+                    "available": false
+                },
+                {
+                    "uuid": "5cf136f1-95a5-4eed-b516-4b2c9714f448",
+                    "time": "23:00-23:30",
+                    "available": false
+                },
+                {
+                    "uuid": "728a2817-c455-44be-9e8d-715d8cbae777",
+                    "time": "23:30-00:00",
+                    "available": false
+                }
+            ],
+            "available": false
+        },
+        {
+            "uuid": "a02c4571-9120-4ec6-8e51-450269462ff0",
+            "day": "Su",
+            "timeSlots": [
+                {
+                    "uuid": "a25ff1c1-1fa1-4768-9e90-66faec6d0124",
+                    "time": "00:00-00:30",
+                    "available": false
+                },
+                {
+                    "uuid": "96804da2-d6ee-4c54-9e58-1bbd7513a6ae",
+                    "time": "00:30-01:00",
+                    "available": false
+                },
+                {
+                    "uuid": "c2faf8d1-d8ad-443f-847c-a9d921aa1ae0",
+                    "time": "01:00-01:30",
+                    "available": false
+                },
+                {
+                    "uuid": "3709397c-9dfe-40fb-8d4e-f11dd6db99aa",
+                    "time": "01:30-02:00",
+                    "available": false
+                },
+                {
+                    "uuid": "fff7dfe1-98df-4f4a-b078-5816f29f09e4",
+                    "time": "02:00-02:30",
+                    "available": false
+                },
+                {
+                    "uuid": "1c1d63b4-ebf9-483a-8196-4d3f150dc911",
+                    "time": "02:30-03:00",
+                    "available": false
+                },
+                {
+                    "uuid": "b553b161-74c4-434c-959d-4f35c1e7f899",
+                    "time": "03:00-03:30",
+                    "available": false
+                },
+                {
+                    "uuid": "dd9ea637-c865-43a2-a256-ae3e4d7211e3",
+                    "time": "03:30-04:00",
+                    "available": false
+                },
+                {
+                    "uuid": "d81c9c7d-ac63-4c93-8d36-135e605d2943",
+                    "time": "04:00-04:30",
+                    "available": false
+                },
+                {
+                    "uuid": "a5c4e8ca-24a4-48cf-9133-0b135b4f6de4",
+                    "time": "04:30-05:00",
+                    "available": false
+                },
+                {
+                    "uuid": "b74c7301-5844-4c08-831b-05234d6a948b",
+                    "time": "05:00-05:30",
+                    "available": false
+                },
+                {
+                    "uuid": "16c43587-7e76-4c34-8767-91e4e0d0e973",
+                    "time": "05:30-06:00",
+                    "available": false
+                },
+                {
+                    "uuid": "9ebcbbc0-dc62-48ec-95b0-9ef786441788",
+                    "time": "06:00-06:30",
+                    "available": false
+                },
+                {
+                    "uuid": "23877383-ee74-44db-81e4-84e309a6c376",
+                    "time": "06:30-07:00",
+                    "available": false
+                },
+                {
+                    "uuid": "a18cd3b3-cb97-4e67-8497-77ede36f5e06",
+                    "time": "07:00-07:30",
+                    "available": false
+                },
+                {
+                    "uuid": "e93280e6-7217-4d56-9b44-5660feabe159",
+                    "time": "07:30-08:00",
+                    "available": false
+                },
+                {
+                    "uuid": "9d9711a5-bf5b-4aa0-97fa-4967f4fa8f81",
+                    "time": "08:00-08:30",
+                    "available": false
+                },
+                {
+                    "uuid": "b9391473-5235-4697-8aa9-39947d440ded",
+                    "time": "08:30-09:00",
+                    "available": false
+                },
+                {
+                    "uuid": "101aa020-1564-4fa0-a904-4ce363652205",
+                    "time": "09:00-09:30",
+                    "available": false
+                },
+                {
+                    "uuid": "976b6230-4539-4e93-8634-ae58b182d3bf",
+                    "time": "09:30-10:00",
+                    "available": false
+                },
+                {
+                    "uuid": "b3e1734d-5699-4678-bc15-9d937790fe98",
+                    "time": "10:00-10:30",
+                    "available": false
+                },
+                {
+                    "uuid": "272c6ca9-271e-40b2-b50f-5c19ecdf60b0",
+                    "time": "10:30-11:00",
+                    "available": false
+                },
+                {
+                    "uuid": "71c7f0c2-8818-45c4-a54c-3c06eff043e7",
+                    "time": "11:00-11:30",
+                    "available": false
+                },
+                {
+                    "uuid": "440f6db6-762c-4aa6-99f6-6683653a5ef8",
+                    "time": "11:30-12:00",
+                    "available": false
+                },
+                {
+                    "uuid": "fe4a333c-087f-4e70-a0e7-133c26fdcc92",
+                    "time": "12:00-12:30",
+                    "available": false
+                },
+                {
+                    "uuid": "be0496f3-06b0-4ddd-9908-f65458ad3f31",
+                    "time": "12:30-13:00",
+                    "available": false
+                },
+                {
+                    "uuid": "5fd36893-46f7-48fb-973f-59ee618829e5",
+                    "time": "13:00-13:30",
+                    "available": false
+                },
+                {
+                    "uuid": "4573df33-3ee3-47b5-bded-aeeec0973fc5",
+                    "time": "13:30-14:00",
+                    "available": false
+                },
+                {
+                    "uuid": "982ef3bc-f9fa-48f6-8085-002a0cd8c76b",
+                    "time": "14:00-14:30",
+                    "available": false
+                },
+                {
+                    "uuid": "f75ac130-ebd2-43f3-857a-403e6b4184b8",
+                    "time": "14:30-15:00",
+                    "available": false
+                },
+                {
+                    "uuid": "85ed4cbc-5aeb-487f-82e3-c4c70a47b185",
+                    "time": "15:00-15:30",
+                    "available": false
+                },
+                {
+                    "uuid": "59a0fe5d-6311-40fa-9f2f-144868287a09",
+                    "time": "15:30-16:00",
+                    "available": false
+                },
+                {
+                    "uuid": "f235b60a-9b8d-4431-8d3e-aa6ab557850b",
+                    "time": "16:00-16:30",
+                    "available": false
+                },
+                {
+                    "uuid": "de9750c6-b941-49fc-bb84-0b9c2dab9480",
+                    "time": "16:30-17:00",
+                    "available": false
+                },
+                {
+                    "uuid": "cf49f8c9-8b73-47c3-998a-737663765a11",
+                    "time": "17:00-17:30",
+                    "available": false
+                },
+                {
+                    "uuid": "4aa09b85-4784-418a-91fd-1fd1ad54182c",
+                    "time": "17:30-18:00",
+                    "available": false
+                },
+                {
+                    "uuid": "cf793a27-6806-4577-ac9f-1f57f0766ffb",
+                    "time": "18:00-18:30",
+                    "available": false
+                },
+                {
+                    "uuid": "da9def2b-ed3c-4af7-a7df-a82f1c882552",
+                    "time": "18:30-19:00",
+                    "available": false
+                },
+                {
+                    "uuid": "56c02721-2bcc-42e3-b8e0-c6728a51a14d",
+                    "time": "19:00-19:30",
+                    "available": false
+                },
+                {
+                    "uuid": "4a1ce8d9-1565-4e71-a17e-d1bcf0e72216",
+                    "time": "19:30-20:00",
+                    "available": false
+                },
+                {
+                    "uuid": "fee3bb45-fb9f-41e0-887e-5a4508079d99",
+                    "time": "20:00-20:30",
+                    "available": false
+                },
+                {
+                    "uuid": "98dd2aa6-f493-4601-a667-109192610e39",
+                    "time": "20:30-21:00",
+                    "available": false
+                },
+                {
+                    "uuid": "d4c8649e-8b92-40a4-aa90-09bf690ac490",
+                    "time": "21:00-21:30",
+                    "available": false
+                },
+                {
+                    "uuid": "953690fd-6bb9-4794-acd2-b2bc04e3dd98",
+                    "time": "21:30-22:00",
+                    "available": false
+                },
+                {
+                    "uuid": "25c58665-e2ab-4602-a032-4596d4a393a8",
+                    "time": "22:00-22:30",
+                    "available": false
+                },
+                {
+                    "uuid": "63f24e14-888a-40af-bbec-6b948021bffa",
+                    "time": "22:30-23:00",
+                    "available": false
+                },
+                {
+                    "uuid": "22ea63e3-a296-4480-b776-c00e6da843a4",
+                    "time": "23:00-23:30",
+                    "available": false
+                },
+                {
+                    "uuid": "1ed59163-4a24-4755-b846-09d9d31f6a7d",
+                    "time": "23:30-00:00",
+                    "available": false
+                }
+            ],
+            "available": false
+        }
+    ]
+}

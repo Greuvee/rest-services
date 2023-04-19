@@ -1,0 +1,92 @@
+{"properties": [
+  {
+    "name": "jwt.secret.key",
+    "type": "java.lang.String",
+    "description": "The secret key for json web token generation'"
+  },
+  {
+    "name": "app.acme.host",
+    "type": "java.lang.String",
+    "description": "The environment host for react"
+  },
+  {
+    "name": "send.validation.email.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'send.validation.email.enabled'"
+  },
+  {
+    "name": "admin.user.password",
+    "type": "java.lang.String",
+    "description": "A description for 'admin.user.password'"
+  },
+  {
+    "name": "advocate.schedule.default.days.of.week",
+    "type": "java.lang.String",
+    "description": "A description for 'advocate.schedule.default.days.of.week'"
+  },
+  {
+    "name": "advocate.schedule.default.hours.of.day",
+    "type": "java.lang.String",
+    "description": "A description for 'advocate.schedule.default.hours.of.day'"
+  },
+  {
+    "name": "use.secure.cookie",
+    "type": "java.lang.String",
+    "description": "A description for 'use.secure.cookie'"
+  },
+  {
+    "name": "json.web.token.ttl",
+    "type": "java.lang.String",
+    "description": "A description for 'json.web.token.ttl'"
+  },
+  {
+    "name": "zoom.api.userid",
+    "type": "java.lang.String",
+    "description": "A description for 'zoom.api.userid'"
+  },
+  {
+    "name": "zoom.api.password",
+    "type": "java.lang.String",
+    "description": "A description for 'zoom.api.password'"
+  },
+  {
+    "name": "zoom.api.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'zoom.api.secret'"
+  },
+  {
+    "name": "zoom.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'zoom.api.key'"
+  },
+  {
+    "name": "zoom.meeting.default.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'zoom.meeting.default.topic'"
+  },
+  {
+    "name": "zoom.meeting.default.agenda",
+    "type": "java.lang.String",
+    "description": "A description for 'zoom.meeting.default.agenda'"
+  },
+  {
+    "name": "zoom.meeting.default.duration",
+    "type": "java.lang.String",
+    "description": "A description for 'zoom.meeting.default.duration'"
+  },
+  {
+    "name": "integration.payment.stripe.api.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'integration.payment.stripe.api.public.key'"
+  },
+  {
+    "name": "integration.payment.stripe.api.private.key",
+    "type": "java.lang.String",
+    "description": "A description for 'integration.payment.stripe.api.private.key'"
+  },
+  {
+    "name": "integration.payment.stripe.webhook.endpoint.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'integration.payment.stripe.webhook.endpoint.secret'"
+  }
+]}
